@@ -5,7 +5,7 @@ Happy Holidays!
 My solutions to [Eric's](https://twitter.com/ericwastl) wonderful [Advent of
 Code](https://adventofcode.com/) for 2022. 
 
-I'm trying to use Python and complete each day’s problem in a ~~ 30 minute ~~
+I'm trying to use Python and complete each day’s problem in a ~~30 minute~~
 one hour timeframe. I'm recording my attempts[^1] with the idea of trying to better
 understand where I can enhance or speed up my iteration / development workflow.
 
